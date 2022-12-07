@@ -3,7 +3,11 @@ Repo to restore All groups' Course Designs for `Human-Computer Interaction` offe
 
 In this repo, students in a group are bound to cooperate as a team
 
-There eight groups in general:
+## Suggestion
+
+There eight groups are recommended to create fork and pull requests to complete their own design, and then merge into this repo.
+
+By the way, any contribution in Reference will be highly remarked.
 
 
 ## Collaborators
