@@ -8,15 +8,13 @@ There eight groups in general:
 
 ## Collaborators
 
-<!-- readme: collaborators -start -->
-<!-- readme: collaborators -end -->
-
-## Contributors
-
 This project exists thanks to all the people who contribute. 
 
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
+<!-- readme: collaborators, contributors -start -->
+<!-- readme: collaborators, contributors -end -->
+
+
+
 
 
 
