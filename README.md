@@ -6,13 +6,17 @@ In this repo, students in a group are bound to cooperate as a team
 There eight groups in general:
 
 
-### Contributors
+## Collaborators
 
-- name: Contribute List
-  uses: akhilmhdh/contributors-readme-action@v2.3.6
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/DuNGEOnmassster/HCI_Course_Design_playground/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 
 
