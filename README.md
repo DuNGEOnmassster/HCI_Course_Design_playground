@@ -200,8 +200,6 @@ There eight groups in general:
 
 
 
-<<<<<<< HEAD
-=======
 <!-- readme: contributors -start -->
 <table>
 <tr>
@@ -214,7 +212,6 @@ There eight groups in general:
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
->>>>>>> 937f037c719c738ae170fa9e7b95e24f6f13653a
 
 
 
