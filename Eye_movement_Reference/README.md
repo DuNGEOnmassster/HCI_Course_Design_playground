@@ -6,6 +6,8 @@
 
 [Here](./Code/) are Codes written for you as references with regard to `how to use opencv` and `how to use model prepared for you`
 
+[Here](./GazeTracking/) are example GazeTracking tool with simple camera cloning from https://github.com/antoinelame/GazeTracking.git
+
 ## Simply run
 
 ```shell script
