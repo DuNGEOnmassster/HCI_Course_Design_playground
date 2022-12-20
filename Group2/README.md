@@ -28,7 +28,7 @@ conda activate GazePainting
 pip install -r requirement.txt
 ```
 
-否则，建议您通过Pypi或者conda-forge下载环境依赖(以PyQT5的安装为例)
+否则，建议您通过Pypi或者conda下载环境依赖(以PyQT5的安装为例)
 
 ```shell script
 # 👇️ in a virtual environment or using Python 2
