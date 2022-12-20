@@ -4,6 +4,11 @@ import argparse
 
 lock = threading.Lock()
 threads = []
+funcs = [
+        "python demo.py",
+        "cd Paint",
+        "python paint.py"
+    ]
 
 
 def parse_args():
@@ -22,28 +27,21 @@ def installer():
                 os.system(f"pip install {i}")
     
 
-def runner(func):
+def runner(num):
     try:
         lock.acquire()
-        os.system(func)
+        os.system(f"{funcs[num]}")
         lock.release()
     except:
         pass
 
 if __name__ == "__main__":
-
-    funcs = [
-        "python demo.py",
-        "cd Paint",
-        "python paint.py"
-    ]
-
     args = parse_args()
-    if args.need_install:
-        installer()
+    # if args.need_install:
+    #     installer()
     
-    for func in funcs:
-        t = threading.Thread(target=runner, args=(func))
+    for num in range(len(funcs)):
+        t = threading.Thread(target=runner(num))
         threads.append(t)
         t.start() 
 
