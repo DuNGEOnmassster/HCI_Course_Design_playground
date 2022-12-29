@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/QQ.jpg.png</file>
+        <file>img/QQtubiao.png</file>
+        <file>img/bold.png</file>
+        <file>img/clear.png</file>
+        <file>img/color.png</file>
+        <file>img/dzw.jpg</file>
+        <file>img/italic.png</file>
+        <file>img/save.png</file>
+        <file>img/spqy.png</file>
+        <file>img/under.png</file>
+        <file>img/xsc.jpg</file>
+        <file>img/zjb.jpg</file>
+        <file>img/Cherry.png</file>
+        <file>img/dr.png</file>
+        <file>img/jj.png</file>
+        <file>img/lswh.png</file>
+        <file>img/qmnn.png</file>
+        <file>img/qq.png</file>
+        <file>img/ymrl.png</file>
+    </qresource>
+</RCC>
