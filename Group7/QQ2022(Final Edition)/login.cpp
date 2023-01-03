@@ -15,7 +15,7 @@ login::login(QWidget *parent) :
     ui->setupUi(this);
     this->setWindowIcon(QIcon(":/img/QQtubiao.png"));
     this->setWindowTitle("QQ 2023");
-
+    ui->password->setEchoMode(QLineEdit::EchoMode::Password);
 
 }
 
