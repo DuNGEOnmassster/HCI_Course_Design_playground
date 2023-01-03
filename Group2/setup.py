@@ -41,12 +41,13 @@ if __name__ == "__main__":
     #     installer()
     
     for num in range(len(funcs)):
-        t = threading.Thread(target=runner(num))
-        threads.append(t)
-        t.start() 
+        # t = threading.Thread(target=runner(num))
+        # threads.append(t)
+        # t.start() 
+        os.system("open -a Terminal . -e 'bash -c \"ls; exec bash\"'")
 
-    for t in threads:
-        t.join()
+    # for t in threads:
+    #     t.join()
 
     
 
